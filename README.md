@@ -32,6 +32,6 @@ License
 This project is licensed under the MIT License. Feel free to explore, contribute, and share!
 
 Contact
-If you have any questions, ideas, or just want to chat about UFC and data science, reach out to us at [your-email@example.com].
+If you have any questions, ideas, or just want to chat about UFC and data science, reach out to me at [diegocomillas95l@gmail.com].
 
 Get ready for a data-driven journey into the world of UFC predictions! 🥊📊
