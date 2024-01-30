@@ -1,7 +1,7 @@
 # proyect_week3
 
 UFC Prediction Model
-Overview
+*Overview*
 Welcome to the UFC Prediction Model project! Our goal is to build a robust prediction model for Ultimate Fighting Championship (UFC) bouts. By analyzing various fighter attributes such as height, weight, reach, fighting style, and performance records, we aim to predict the outcomes of fair fights between any two active fighters.
 
 Process
