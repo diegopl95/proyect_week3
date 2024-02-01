@@ -1,7 +1,9 @@
-UFC Fighters Data Analysis Project
+UFC FIGHTERS DATA ANALYSIS PROJECT
 
-Overview
+OVERVIEW
 
 This project aims to leverage data about UFC fighters to explore and eventually attempt to predict the outcome of fights. 
+
 The process involves web scraping fighter data from the UFC Stats website, followed by data cleaning, correlation analysis, and the addition of insightful columns to the dataset. 
+
 The ultimate goal is to enhance the accuracy of a prediction model for the outcome of a fight between two UFC fighters.
